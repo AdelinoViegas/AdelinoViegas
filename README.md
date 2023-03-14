@@ -8,6 +8,7 @@
   <img align="center" alt="Adelino-JS" height="45" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Adelino-PHP" height="45" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Adelino-REACT" height="45" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Adelino-BOOTSTRAP" height="45" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
   
 
