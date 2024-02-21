@@ -1,4 +1,4 @@
-<h2>Sou o Adelino Viegas Programador Frontend</h2>
+<h2>Sou o Adelino Viegas Programador Web</h2>
 
 <div style="display: inline_block"><br>
   <h3>Tecnologias</h3>
